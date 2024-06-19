@@ -14,14 +14,14 @@ const HeroImg = () => {
     const [currentIndex, setCurrentIndex] = useState(0);
 
     useEffect(() => {
-        const interval = setInterval(() => {
-            if(words && words.length){
-                setCurrentIndex((prevIndex) => (prevIndex + 1) % words.length); 
-            }
-        }, 2000);
+        if (words && words.length > 0) {
+            const interval = setInterval(() => {
+                setCurrentIndex((prevIndex) => (prevIndex + 1) % words.length);
+            }, 2000);
 
-        return () => clearInterval(interval);
-    }, []);
+            return () => clearInterval(interval);
+        }
+    }, [words]); 
     
     return (
         <div className="hero">
