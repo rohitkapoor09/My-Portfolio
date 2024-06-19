@@ -21,7 +21,7 @@ const HeroImg = () => {
 
             return () => clearInterval(interval);
         }
-    }, [words]); 
+    }, []); 
     
     return (
         <div className="hero">
