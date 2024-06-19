@@ -15,7 +15,9 @@ const HeroImg = () => {
 
     useEffect(() => {
         const interval = setInterval(() => {
-            setCurrentIndex((prevIndex) => (prevIndex + 1) % words?.length);
+            if(words && words.length){
+                setCurrentIndex((prevIndex) => (prevIndex + 1) % words.length); 
+            }
         }, 2000);
 
         return () => clearInterval(interval);
