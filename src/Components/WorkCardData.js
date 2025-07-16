@@ -6,27 +6,27 @@ import pro3 from "../assets/inotebook.png";
 const ProjectCardData = [
     {
         imagesrc: pro1,
-        title: "Memories",
-        text: "A MERN stack social media web application on which your can share your precious memories & moments of your life. User can Create, Like, Update & Delete posts/memories and checkout other users posts on the application",
-        view: "https://memories-albumapp.netlify.app/",
-        source: "https://github.com/shantanu-singh01/memories"
+        title: "Tap V2 (Food Ordering App)",
+        text: "A Dynamic Food ordering App. This app is developed for restaurant domain where we are providing mobile app user interface on behalf of company like Domino’s, Burger King, etc. The complete app was config driven so that we can build apps for multiple brands just by configurational changes.",
+        view: "https://play.google.com/store/apps/details?id=in.burgerking.android&hl=en",
+        // source: "https://github.com/shantanu-singh01/memories"
             
     },
     {
         imagesrc: pro2,
-        title: "Mehar Store",
-        text: "A E-commerce website made using react. Under development.",
-        view: "https://meharstore.com/",
-        source: "https://meharstore.com/"
+        title: "TranxPay (Payment App)",
+        text: "This app is developed for the purpose of payment and exchange (domestic and International) and also includes crypto exchange (Buving and selling of crypto coins). The App also includes the Kyc verification of user with the help of persona platform. Used Solid platform for payment and crypto exchange and Plaid platform to apply debit/credit card functionality.",
+        view: "https://www.visiot.net/projects/tranxpay",
+        // source: "https://meharstore.com/"
         
             
     },
     {
         imagesrc: pro3,
-        title: "iNotebook",
-        text: "A MERN stack web application made using react.js for seamless online note-taking and storage.",
-        view: "https://chimerical-cendol-c157a9.netlify.app/login",
-        source: "https://github.com/shantanu-singh01/inotebook"
+        title: "Buddy4Study (Scholarship App)",
+        text: "Buddy4Study is India’s Largest Scholarship Platform. It is a one-stop solution for students to search and apply for scholarships. The platform provides a wide range of scholarships from various government and private organizations, helping students to pursue their education without financial constraints.",
+        view: "https://play.google.com/store/search?q=buddy4study%20scholarship%20app&c=apps&hl=en",
+        // source: "https://github.com/shantanu-singh01/inotebook"
         
             
     }
