@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 
 
 const HeroImg = () => {
-    const [words, setWords] = useState([
+    const [words] = useState([
         "Software Engineer",
         "Mobile Developer",
         "Web Developer"
@@ -21,7 +21,7 @@ const HeroImg = () => {
 
             return () => clearInterval(interval);
         }
-    }, []); 
+    }, [words]); 
     
     return (
         <div className="hero">
