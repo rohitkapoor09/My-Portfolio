@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c510353a.css",
-    "main.js": "/portfolio/static/js/main.fb0516eb.js",
-    "static/media/mehar_store.png": "/portfolio/static/media/mehar_store.0820d69365c4df111b3c.png",
-    "static/media/memories.png": "/portfolio/static/media/memories.9f9dd833ec4a229a2cf6.png",
-    "static/media/stackimage2.png": "/portfolio/static/media/stackimage2.5e48786ab8e0a938c434.png",
-    "static/media/intro-bg.jpg": "/portfolio/static/media/intro-bg.9a37afe0b8455e706c90.jpg",
-    "static/media/stackimage1.png": "/portfolio/static/media/stackimage1.45e8af3de7251ba358be.png",
-    "static/media/inotebook.png": "/portfolio/static/media/inotebook.2d96bb23ff36be2fa98f.png",
-    "index.html": "/portfolio/index.html",
-    "main.c510353a.css.map": "/portfolio/static/css/main.c510353a.css.map",
-    "main.fb0516eb.js.map": "/portfolio/static/js/main.fb0516eb.js.map"
+    "main.css": "/static/css/main.c510353a.css",
+    "main.js": "/static/js/main.c0547f93.js",
+    "static/media/mehar_store.png": "/static/media/mehar_store.0820d69365c4df111b3c.png",
+    "static/media/memories.png": "/static/media/memories.9f9dd833ec4a229a2cf6.png",
+    "static/media/stackimage2.png": "/static/media/stackimage2.5e48786ab8e0a938c434.png",
+    "static/media/intro-bg.jpg": "/static/media/intro-bg.9a37afe0b8455e706c90.jpg",
+    "static/media/stackimage1.png": "/static/media/stackimage1.45e8af3de7251ba358be.png",
+    "static/media/inotebook.png": "/static/media/inotebook.2d96bb23ff36be2fa98f.png",
+    "index.html": "/index.html",
+    "main.c510353a.css.map": "/static/css/main.c510353a.css.map",
+    "main.c0547f93.js.map": "/static/js/main.c0547f93.js.map"
   },
   "entrypoints": [
     "static/css/main.c510353a.css",
-    "static/js/main.fb0516eb.js"
+    "static/js/main.c0547f93.js"
   ]
 }
