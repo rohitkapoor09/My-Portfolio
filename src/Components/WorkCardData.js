@@ -1,6 +1,6 @@
-import pro1 from "../assets/memories.png";
-import pro2 from "../assets/mehar_store.png";
-import pro3 from "../assets/inotebook.png";
+import pro1 from "../assets/bk.png";
+import pro2 from "../assets/tranxpay.png";
+import pro3 from "../assets/b4s.png";
  
 
 const ProjectCardData = [
